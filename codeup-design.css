@@ -31,7 +31,7 @@ body {
     justify-content: center;
     font-family: 'Anton', sans-serif;
     color: white;
-    margin: 25px;
+    margin: 10px;
 }
 .design { background-color: #E6563b; }
 .develop { background-color: #eb9d39; }
@@ -43,8 +43,14 @@ hr {
 }
 .headline {
     margin-bottom: 35px;
+}
+.card {
+    display: inline-block;
+    margin: 0.2rem;
+}
 .card-image {
     border-color: #E6E6E6;
+    height: 15rem;
 }
 .icon {
     width: 18px;
