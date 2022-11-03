@@ -43,4 +43,18 @@ hr {
 }
 .headline {
     margin-bottom: 35px;
+.card-image {
+    border-color: #E6E6E6;
+}
+.icon {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Anton', sans-serif;
+    color: black;
+    margin: 0 .25em;
+    font-size: .75em;
 }
