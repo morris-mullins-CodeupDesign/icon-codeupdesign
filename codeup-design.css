@@ -1,3 +1,24 @@
 body {
     background: #f0f0f0;
+.anton {
+    font-family: 'Anton', sans-serif;
+}
+.abel {
+    font-family: 'Abel', sans-serif;
+}
+
+.circle {
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.design {
+    border: white 3px solid;
+    background-color: #E6563b;
+    color: white;
 }
