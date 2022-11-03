@@ -31,7 +31,7 @@ body {
     justify-content: center;
     font-family: 'Anton', sans-serif;
     color: white;
-    margin: auto;
+    margin: 25px;
 }
 .design { background-color: #E6563b; }
 .develop { background-color: #eb9d39; }
@@ -41,6 +41,6 @@ body {
 hr {
     margin: 50px 0;
 }
-h6 {
+.headline {
     margin-bottom: 35px;
 }
