@@ -4,10 +4,10 @@ body {
 }
 /* Header Formatting */
 .title {
-    font-size: 2.5em;
+    font-size: 3em;
 }
 .subtitle {
-    font-size: 1.75em;
+    font-size: 2em;
 }
 /* Custom Fonts */
 .anton {
@@ -31,19 +31,21 @@ body {
     justify-content: center;
     font-family: 'Anton', sans-serif;
     color: white;
-    margin: auto;
+    margin: 25px;
 }
 .design { background-color: #E6563b; }
 .develop { background-color: #eb9d39; }
 .support { background-color: #7bb16c; }
 .host { background-color: #22abaa; }
-
-
+/* Content Area */
+hr {
+    margin: 50px 0;
+}
+.headline {
+    margin-bottom: 35px;
 .card-image {
     border-color: #E6E6E6;
 }
-
-
 .icon {
     width: 18px;
     height: 18px;
