@@ -1,5 +1,7 @@
 body {
     background: #f0f0f0;
+}
+
 .anton {
     font-family: 'Anton', sans-serif;
 }
@@ -14,11 +16,12 @@ body {
     display: flex;
     align-items: center;
     text-align: center;
+    justify-content: center;
     font-family: 'Anton', sans-serif;
 }
 
 .design {
-    border: white 3px solid;
+    border: white 5px solid;
     background-color: #E6563b;
     color: white;
 }
