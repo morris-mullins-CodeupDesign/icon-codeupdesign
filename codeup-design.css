@@ -38,9 +38,6 @@ body {
 .support { background-color: #7bb16c; }
 .host { background-color: #22abaa; }
 /* Content Area */
-hr {
-    margin: 50px 0;
-}
 .headline {
     margin-bottom: 35px;
 }
